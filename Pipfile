@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 streamlit = "*"
+colorama = "*"
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
 
 [dev-packages]
 
