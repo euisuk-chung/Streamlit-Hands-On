@@ -2,7 +2,6 @@
 # 다양한 UI 요소 실습
 import streamlit as st
 
-
 def show():
     st.header("텍스트 및 UI 요소 실습")
     st.subheader("기본 텍스트 출력")
